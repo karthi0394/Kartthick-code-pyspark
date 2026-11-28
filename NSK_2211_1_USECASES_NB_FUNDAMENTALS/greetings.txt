@@ -1,0 +1,1 @@
+hello team, good afternoon, this content is created in the edge node where databricks offered 100GB HDD capacity
